@@ -15,32 +15,30 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LqfeyWenTslOtyAcwCCYjnQvMtsCvYPi/view?usp=drive_link](https://drive.google.com/file/d/1LqfeyWenTslOtyAcwCCYjnQvMtsCvYPi/view?usp=drive_link)
 
+<h3 align="left">🏆 Hackathon Achievements:</h3>
+<ul>
+  <li>🥇 <strong>VR Siddhartha Engineering College AI Autonomous National Hackathon</strong><br />
+  First Place – 48-Hour Hackathon<br />
+  📅 February 2025</li>
+  <br />
+  <li>🥇 <strong>24-Hour MERN Stack Hackathon by Biztron Softech</strong><br />
+  First Place – Built Full-Stack Web App<br />
+  📅 October 2024</li>
+  <br />
+  <li>🥇 <strong>HackIT! 2K24 – National Level Hackathon</strong><br />
+  First Place – Innovative Tech Solution<br />
+  📅 October 2024</li>
+</ul>
 
-🏆 Hackathon Achievements
-🥇 VR Siddhartha Engineering College AI Autonomous National Hackathon
-First Place – 48-Hour Hackathon
-📅 February 2025
-
-🥇 24-Hour MERN Stack Hackathon by Biztron Softech
-First Place – Built Full-Stack Web App
-📅 October 2024
-
-🥇 HackIT! 2K24 – National Level Hackathon
-First Place – Innovative Tech Solution
-📅 October 2024
-
-📜 Certifications
-✅ AWS Certified Cloud Practitioner – March 2024
-
-✅ Salesforce AI Associate – March 2024
-
-✅ Cybersecurity Essentials – Cisco Networking Academy, June 2024
-
-✅ Introduction to Packet Tracer – Cisco Networking Academy, June 2024
-
-✅ Introduction to MongoDB (For Students) – August 2024
-
-✅ Cloud Virtual Internship – July to September 2024
+<h3 align="left">📜 Certifications:</h3>
+<ul>
+  <li>✅ <strong>AWS Certified Cloud Practitioner</strong> – March 2024</li>
+  <li>✅ <strong>Salesforce AI Associate</strong> – March 2024</li>
+  <li>✅ <strong>Cybersecurity Essentials</strong> – Cisco Networking Academy, June 2024</li>
+  <li>✅ <strong>Introduction to Packet Tracer</strong> – Cisco Networking Academy, June 2024</li>
+  <li>✅ <strong>Introduction to MongoDB (For Students)</strong> – August 2024</li>
+  <li>✅ <strong>Cloud Virtual Internship</strong> – July to September 2024</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
