@@ -15,6 +15,34 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LqfeyWenTslOtyAcwCCYjnQvMtsCvYPi/view?usp=drive_link](https://drive.google.com/file/d/1LqfeyWenTslOtyAcwCCYjnQvMtsCvYPi/view?usp=drive_link)
 
+
+🏆 Hackathon Achievements
+🥇 VR Siddhartha Engineering College AI Autonomous National Hackathon
+First Place – 48-Hour Hackathon
+📅 February 2025
+
+🥇 24-Hour MERN Stack Hackathon by Biztron Softech
+First Place – Built Full-Stack Web App
+📅 October 2024
+
+🥇 HackIT! 2K24 – National Level Hackathon
+First Place – Innovative Tech Solution
+📅 October 2024
+
+📜 Certifications
+✅ AWS Certified Cloud Practitioner – March 2024
+
+✅ Salesforce AI Associate – March 2024
+
+✅ Cybersecurity Essentials – Cisco Networking Academy, June 2024
+
+✅ Introduction to Packet Tracer – Cisco Networking Academy, June 2024
+
+✅ Introduction to MongoDB (For Students) – August 2024
+
+✅ Cloud Virtual Internship – July to September 2024
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sanjay-ketham-952485289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sanjay-ketham-952485289" height="30" width="40" /></a>
