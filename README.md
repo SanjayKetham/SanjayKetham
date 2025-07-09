@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://sanjayketham.github.io/ketham_portfolio/](https://github.com/SanjayKetham/sanjayketham-portfolio)
+- 👨‍💻 All of my projects are available at [https://sanjayketham.github.io/ketham_portfolio/](https://sanjayketham-portfolio.vercel.app/)
 
 - 📫 How to reach me **kethamsanjay@gmail.com**
 
